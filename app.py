@@ -155,7 +155,7 @@ slider_range = {int(year):str(year) for year in list_of_years}   # need to inclu
 app = Dash(__name__)
 app.title = "World Cup Dashboard"
 app._favicon = ("assets/favicon.ico")
-server = app.server
+server = app.server  # for render deployment
 
 app.layout = html.Div([
     dbc.Row([
