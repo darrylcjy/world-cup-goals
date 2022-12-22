@@ -1,0 +1,8 @@
+Data from 1986 to 2014^:
+  - https://www.kaggle.com/datasets/abecklas/fifa-world-cup
+
+Data for 2018 and 2022:
+  - https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017
+
+Add in missing half time results & stage information (eg. group stage, semi finals, etc):
+  - https://www.fifa.com/tournaments/mens/worldcup
