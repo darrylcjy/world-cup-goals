@@ -1,6 +1,6 @@
 # World Cup Goals Analysis Dashboard
 
-This application is a portfolio project built using Plotly's Dash , faculty.ai's Dash Bootstrap Components, and Pandas. Using historical FIFA World Cup data, this Dash app provides visualizations for goals statistics dating from 1986 to 2022.
+This application is a portfolio project built using Plotly's Dash , faculty.ai's Dash Bootstrap Components, and Pandas. Using historical FIFA World Cup data, this Dash app provides visualizations for goal statistics dating from 1986 to 2022.
 
 ## The Analysis
 
